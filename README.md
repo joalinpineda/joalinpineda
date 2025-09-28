@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as QA associate at @Platzi
-- 🌱 I’m currently learning Cypress, Selenium, Django, React.js.
+- 🔭 I’m currently working ..
+- 🌱 I’m currently learning ..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,21 +16,43 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, I'm Joalin, nice to see you here ✨</h1>
 
-# 💫 About Me:
-- 🔭 I’m currently working as QA automation engineer @ Divelement
-<!-- - 🌱 I’m currently learning Django, React.js.
-- ⚡ Fun fact: my name is made up.
--->
+I'm a **QA Automation Engineer** with a strong foundation in **Python, testing, and automation frameworks** like Playwright, Cypress, and Selenium.  
+I help teams deliver reliable, well-tested software while continuously improving the development workflow through CI/CD pipelines.
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@joalinpineda) 
+# 🧑‍💻 About Me:
+- 💻 4+ years of experience in the software industry.  
+- 🐍 Focused on **Python backend development** with Django & FastAPI.  
+- ✅ Strong background in **QA Automation** (Playwright, Cypress, Selenium).  
+- 🔄 Experienced in **CI/CD pipelines** (Azure DevOps, GitHub Actions).  
+- 🌐 Familiar with frontend technologies (**React, Tailwind, JavaScript**) to collaborate across the stack.  
+- 📚 Passionate about learning, clean code, and building software that makes an impact.  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joalinpineda&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joalinpineda&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joalinpineda&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🧠 Current Focus
+- Expanding my skills in **Python backend development** using Django and FastAPI.  
+- Building APIs, data-driven applications, and personal projects that showcase clean, maintainable code.  
+- Leveraging my QA experience to write **robust, testable, and production-ready code**.  
+
+
+## 🛠️ Tech Stack
+<div align='left'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height='40'/>                 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height='40' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height='40'/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height='40'/>        
+</div>
+
+## Connect with me
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height='40' />](https://www.linkedin.com/in/joalinpineda/)  
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
